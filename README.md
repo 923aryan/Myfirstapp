@@ -1,1 +1,1 @@
-A basic app which calcualtes age in minutes
+A basic app which calculates age in minutes
